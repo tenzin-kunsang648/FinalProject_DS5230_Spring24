@@ -15,4 +15,4 @@ The primary question we are trying to answer to is how can convolutional layers 
 
 [Link to repo](https://github.com/tenzin-kunsang648/FinalProject_DS5230_Spring24/blob/main/README.md)
 
-**Last Updated on: April 15th, 2024**
+**Last Updated on: April 25th, 2024**
